@@ -1,4 +1,4 @@
 module.exports = {
-    publicPath: '/wc-shop',
-    outputDir: 'docs'
+    publicPath: '/wc-shop/',
+    outputDir: './docs'
 }
