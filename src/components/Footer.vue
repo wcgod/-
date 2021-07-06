@@ -22,6 +22,18 @@
                 </div>
 
                 <div class="col-md-4 pt-5">
+                    <h2 class="h2 text-light border-bottom pb-3 border-light">Products</h2>
+                    <ul class="list-unstyled text-light footer-link-list">
+                        <li><a class="text-decoration-none" href="#">Java</a></li>
+                        <li><a class="text-decoration-none" href="#">Javascript</a></li>
+                        <li><a class="text-decoration-none" href="#">Spring</a></li>
+                        <li><a class="text-decoration-none" href="#">SQL</a></li>
+                        <li><a class="text-decoration-none" href="#">Git</a></li>
+                        <li><a class="text-decoration-none" href="#">Nexacro</a></li>
+                    </ul>
+                </div>
+
+                <div class="col-md-4 pt-5">
                     <h2 class="h2 text-light border-bottom pb-3 border-light">Info</h2>
                     <ul class="list-unstyled text-light footer-link-list">
                         <router-link :to="{name: 'home'}" tag="li" active-class="sale-noti" exact>
