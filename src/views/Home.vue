@@ -91,7 +91,7 @@
               <div class="row">
                   <div class="col-12 col-md-6 mb-6">
                       <div class="card h-100">
-                          <router-link v-bind:to="`company`">
+                          <router-link v-bind:to="`company01`">
                               <img src="img/company_logo_01.jpg" class="card-img-top" alt="...">
                           </router-link>
                           <div class="card-body">
@@ -104,9 +104,9 @@
                   </div>
                   <div class="col-12 col-md-6 mb-6">
                       <div class="card h-100">
-                          <a href="shop-single.html">
+                          <router-link v-bind:to="`company02`">
                               <img src="img/company_logo_02.jpg" class="card-img-top" alt="...">
-                          </a>
+                          </router-link>
                           <div class="card-body">
                               <a href="shop-single.html" class="h2 text-decoration-none text-dark">현대아이티앤이</a>
                               <p class="card-text">
