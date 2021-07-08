@@ -12,8 +12,8 @@
                           <i class="fa fa-fw fa-chevron-circle-down mt-1"></i>
                       </a>
                       <ul class="collapse show list-unstyled pl-3">
-                          <li><a class="text-decoration-none" href="#">Vuejs</a></li>
-                          <li><a class="text-decoration-none" href="#">Javascript</a></li>
+                          <li>Vuejs</li>
+                          <li>Javascript</li>
                       </ul>
                   </li>
                   <li class="pb-3">
@@ -22,9 +22,9 @@
                           <i class="pull-right fa fa-fw fa-chevron-circle-down mt-1"></i>
                       </a>
                       <ul id="collapseTwo" class="collapse list-unstyled pl-3">
-                          <li><a class="text-decoration-none" href="#">Java</a></li>
-                          <li><a class="text-decoration-none" href="#">Spring</a></li>
-                          <li><a class="text-decoration-none" href="#">Nexacro</a></li>
+                          <li><Java</li>
+                          <li>Spring</li>
+                          <li>Nexacro</li>
                       </ul>
                   </li>
                   <li class="pb-3">
@@ -33,9 +33,9 @@
                           <i class="pull-right fa fa-fw fa-chevron-circle-down mt-1"></i>
                       </a>
                       <ul id="collapseThree" class="collapse list-unstyled pl-3">
-                          <li><a class="text-decoration-none" href="#">Git</a></li>
-                          <li><a class="text-decoration-none" href="#">SQL</a></li>
-                          <li><a class="text-decoration-none" href="#">Python</a></li>
+                          <li>Git</li>
+                          <li>SQL</li>
+                          <li>Python</li>
                       </ul>
                   </li>
               </ul>
