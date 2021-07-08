@@ -1,19 +1,12 @@
 # vueshop
 
-## Project setup
-```
-npm install
-```
+vuejs를 사용하여 만든 간단한 포트폴리오 사이트입니다.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+1. 간단한 자기소개
+2. 경력사항
+3. 스킬 수준
+4. 연락처 및 메일
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+그 외 추가 예정사항
+- 그동안 진행해온 결과물 첨부
+ 
