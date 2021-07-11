@@ -24,12 +24,12 @@
                 <div class="col-md-4 pt-5">
                     <h2 class="h2 text-light border-bottom pb-3 border-light">Products</h2>
                     <ul class="list-unstyled text-light footer-link-list">
-                        <li><a class="text-decoration-none" href="#">Java</a></li>
-                        <li><a class="text-decoration-none" href="#">Javascript</a></li>
-                        <li><a class="text-decoration-none" href="#">Spring</a></li>
-                        <li><a class="text-decoration-none" href="#">SQL</a></li>
-                        <li><a class="text-decoration-none" href="#">Git</a></li>
-                        <li><a class="text-decoration-none" href="#">Nexacro</a></li>
+                        <li>Java</a></li>
+                        <li>Javascript</a></li>
+                        <li>Spring</a></li>
+                        <li>SQL</a></li>
+                        <li>Git</a></li>
+                        <li>Nexacro</a></li>
                     </ul>
                 </div>
 
