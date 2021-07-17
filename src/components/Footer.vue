@@ -22,18 +22,6 @@
                 </div>
 
                 <div class="col-md-4 pt-5">
-                    <h2 class="h2 text-light border-bottom pb-3 border-light">Products</h2>
-                    <ul class="list-unstyled text-light footer-link-list">
-                        <li>Java</a></li>
-                        <li>Javascript</a></li>
-                        <li>Spring</a></li>
-                        <li>SQL</a></li>
-                        <li>Git</a></li>
-                        <li>Nexacro</a></li>
-                    </ul>
-                </div>
-
-                <div class="col-md-4 pt-5">
                     <h2 class="h2 text-light border-bottom pb-3 border-light">Info</h2>
                     <ul class="list-unstyled text-light footer-link-list">
                         <router-link :to="{name: 'home'}" tag="li" active-class="sale-noti" exact>
